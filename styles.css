@@ -1,0 +1,64 @@
+html {
+  font-family: sans-serif;
+}
+
+body{
+  margin: 0px;
+}
+main{
+  margin: 1%;
+}
+
+header{
+  background-color: rgb(10, 224, 10);
+  padding: 1%;
+  color: white;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(200,200,200);
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+td, th {
+  border: 1px solid rgb(190,190,190);
+  padding: 10px 20px;
+}
+
+th {
+  background-color: aqua;
+}
+
+td {
+  text-align: center;
+  background-color:white;
+}
+
+
+caption {
+  padding: 10px;
+}
+
+.table-header{
+  font-weight: bold;
+  background-color: aquamarine;
+}
+
+footer{
+  background-color: rgb(10, 224, 10);
+  font-size: calc(1em - 0.1em);
+  padding: 1%;
+}
+
+footer div{
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+  padding: 1px;
+}
+
+footer p{
+  margin: 2%;
+}
